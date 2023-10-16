@@ -1,0 +1,9 @@
+POST http://localhost:8080/students HTTP/1.1
+content-Type: application/json
+
+{
+  "fullName": "testandodenovo",
+  "email": "testandodemovos@dog.com",
+  "password": "evamodeteste",
+  "age": 26
+}
